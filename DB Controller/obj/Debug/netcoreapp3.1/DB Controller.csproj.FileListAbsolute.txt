@@ -1,0 +1,16 @@
+D:\Projects\DB Controller\DB Controller\bin\Debug\netcoreapp3.1\DB Controller.exe
+D:\Projects\DB Controller\DB Controller\bin\Debug\netcoreapp3.1\DB Controller.deps.json
+D:\Projects\DB Controller\DB Controller\bin\Debug\netcoreapp3.1\DB Controller.runtimeconfig.json
+D:\Projects\DB Controller\DB Controller\bin\Debug\netcoreapp3.1\DB Controller.runtimeconfig.dev.json
+D:\Projects\DB Controller\DB Controller\bin\Debug\netcoreapp3.1\DB Controller.dll
+D:\Projects\DB Controller\DB Controller\bin\Debug\netcoreapp3.1\DB Controller.pdb
+D:\Projects\DB Controller\DB Controller\obj\Debug\netcoreapp3.1\DB Controller.csproj.AssemblyReference.cache
+D:\Projects\DB Controller\DB Controller\obj\Debug\netcoreapp3.1\DB_Controller.Form1.resources
+D:\Projects\DB Controller\DB Controller\obj\Debug\netcoreapp3.1\DB Controller.csproj.GenerateResource.cache
+D:\Projects\DB Controller\DB Controller\obj\Debug\netcoreapp3.1\DB Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DB Controller\DB Controller\obj\Debug\netcoreapp3.1\DB Controller.AssemblyInfoInputs.cache
+D:\Projects\DB Controller\DB Controller\obj\Debug\netcoreapp3.1\DB Controller.AssemblyInfo.cs
+D:\Projects\DB Controller\DB Controller\obj\Debug\netcoreapp3.1\DB Controller.csproj.CoreCompileInputs.cache
+D:\Projects\DB Controller\DB Controller\obj\Debug\netcoreapp3.1\DB Controller.dll
+D:\Projects\DB Controller\DB Controller\obj\Debug\netcoreapp3.1\DB Controller.pdb
+D:\Projects\DB Controller\DB Controller\obj\Debug\netcoreapp3.1\DB Controller.genruntimeconfig.cache

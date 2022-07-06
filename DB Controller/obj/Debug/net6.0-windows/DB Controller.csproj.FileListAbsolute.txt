@@ -1,0 +1,40 @@
+D:\Projects\DB Controller\DB Controller\bin\Debug\net6.0-windows\DB Controller.exe
+D:\Projects\DB Controller\DB Controller\bin\Debug\net6.0-windows\DB Controller.deps.json
+D:\Projects\DB Controller\DB Controller\bin\Debug\net6.0-windows\DB Controller.runtimeconfig.json
+D:\Projects\DB Controller\DB Controller\bin\Debug\net6.0-windows\DB Controller.dll
+D:\Projects\DB Controller\DB Controller\bin\Debug\net6.0-windows\DB Controller.pdb
+D:\Projects\DB Controller\DB Controller\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\Projects\DB Controller\DB Controller\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.csproj.AssemblyReference.cache
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\DB_Controller.Form1.resources
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.csproj.GenerateResource.cache
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.AssemblyInfoInputs.cache
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.AssemblyInfo.cs
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.csproj.CoreCompileInputs.cache
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.csproj.CopyComplete
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.dll
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\refint\DB Controller.dll
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.pdb
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.genruntimeconfig.cache
+D:\Projects\DB Controller\DB Controller\obj\Debug\net6.0-windows\ref\DB Controller.dll
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\bin\Debug\net6.0-windows\DB Controller.exe
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\bin\Debug\net6.0-windows\DB Controller.deps.json
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\bin\Debug\net6.0-windows\DB Controller.runtimeconfig.json
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\bin\Debug\net6.0-windows\DB Controller.dll
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\bin\Debug\net6.0-windows\DB Controller.pdb
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\DB_Controller.Form1.resources
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.AssemblyInfo.cs
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.csproj.CopyComplete
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.dll
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\refint\DB Controller.dll
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.pdb
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\DB Controller.genruntimeconfig.cache
+C:\Users\Asus\Documents\GitHub\DB-Controller\DB Controller\obj\Debug\net6.0-windows\ref\DB Controller.dll
